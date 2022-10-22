@@ -13,14 +13,10 @@ SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 mil
 - To apply data science toolkit and machine learning in order to accurately predict the likelihood of the first stage rocket landing successfully, and thus determine the cost of a launch.
 - Explore the data in order to obtain more insight from the data.
 
-## Business metric
-Classification accuracy - number of correct prediction divided by the total number of prediction defined as:
-$$Accuracy = \frac{TP+TN}{TP+FP+TN+FN}$$
 
-![Confusion matrix](https://github.com/chuksoo/IBM-Data-Science-Capstone-SpaceX/blob/main/Plots/Confusion%20matrix.PNG)
 
-## Deliverables
-- Accurate predictive algorithms
+
+
 - Business case report to stakeholders
 
 
